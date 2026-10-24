@@ -32,33 +32,41 @@ The repository will evolve as more files and topics are added.
 
 📅 The 30-Day Learning Plan
 
-The repository is organized around 30 Python files, with each file representing a learning step.
+Each file is a standalone lesson with examples and a small project to practice.
+Run the files in order and try changing the examples as you learn.
 
-Day
-
-Learning material
-
-Day 01
-
-Day_1.py
-
-Day 02
-
-Day_2.py
-
-Day 03
-
-Day_3.py
-
-...
-
-...
-
-Day 30
-
-Day_30.py
-
-This README will be updated when new files or learning stages are added.
+| Day | Topic | File |
+| --- | --- | --- |
+| 01 | Variables, data types, input, and output | `Day_1.py` |
+| 02 | Operators | `Day_2.py` |
+| 03 | Conditions and decision-making | `Day_3.py` |
+| 04 | For loops, while loops, break, and continue | `Day_4.py` |
+| 05 | Strings | `Day_5.py` |
+| 06 | Lists | `Day_6.py` |
+| 07 | Tuples | `Day_7.py` |
+| 08 | Sets | `Day_8.py` |
+| 09 | Dictionaries | `Day_9.py` |
+| 10 | Functions and a calculator | `Day_10.py` |
+| 11 | Standard-library modules and imports | `Day_11.py` |
+| 12 | Exceptions and input validation | `Day_12.py` |
+| 13 | List comprehensions | `Day_13.py` |
+| 14 | `enumerate()`, `zip()`, and sorting | `Day_14.py` |
+| 15 | Reading and writing text files | `Day_15.py` |
+| 16 | JSON data and persistence | `Day_16.py` |
+| 17 | Classes, objects, and attributes | `Day_17.py` |
+| 18 | Instance methods and object behavior | `Day_18.py` |
+| 19 | Inheritance and method overriding | `Day_19.py` |
+| 20 | Iterators and generators | `Day_20.py` |
+| 21 | Decorators | `Day_21.py` |
+| 22 | Regular expressions | `Day_22.py` |
+| 23 | Dates and times | `Day_23.py` |
+| 24 | File and folder paths with `pathlib` | `Day_24.py` |
+| 25 | CSV files | `Day_25.py` |
+| 26 | Automated tests with `unittest` | `Day_26.py` |
+| 27 | Type hints and docstrings | `Day_27.py` |
+| 28 | SQLite databases | `Day_28.py` |
+| 29 | Context managers | `Day_29.py` |
+| 30 | Capstone: a JSON-backed task list | `Day_30.py` |
 
 🛠️ Getting Started
 
